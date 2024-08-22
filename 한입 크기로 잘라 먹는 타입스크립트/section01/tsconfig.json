@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // 컴파일 될 자바스크립트의 버젼을 지정
+    "module": "ESNext",
+    "outDir": "dist",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
